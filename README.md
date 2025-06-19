@@ -1,6 +1,7 @@
 #  Análise de Vendas com PySpark
 
-Este projeto foi desenvolvido como parte da Formação em Dados da Télos, utilizando a plataforma **Databricks Community Edition** e a linguagem **PySpark**.
+Este projeto foi desenvolvido como parte da **atividade do Nível 8** da **Formação em Dados da Télos**, utilizando a plataforma **Databricks Community Edition** e a linguagem **PySpark**.
+
 
 ##  Objetivo
 
